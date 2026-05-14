@@ -158,6 +158,8 @@ streamlit
 ```
 
 ---
+<img width="1889" height="913" alt="image" src="https://github.com/user-attachments/assets/a83965f5-cb01-4b6f-b9be-a0668b69b6f1" />
+
 
 ## 🌐 Deployment (Render)
 
