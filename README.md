@@ -77,9 +77,9 @@ cd Lang_agent_project
 
 ### 2. Create a virtual environment
 ```bash
-python -m venv venv
-source venv/bin/activate        # macOS/Linux
-venv\Scripts\activate           # Windows
+Steps to Create Virtual Env
+conda create -n langagent python=3.11 -y
+conda activate langagent
 ```
 
 ### 3. Install dependencies
