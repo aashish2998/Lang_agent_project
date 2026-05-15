@@ -189,7 +189,3 @@ This project was built following a hands-on LangChain tutorial on YouTube coveri
 
 MIT License — feel free to use, modify, and build on top of this.
 
----
-
----
--3 more projects on top of these foundations and your portfolio will be genuinely strong.
